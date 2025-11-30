@@ -20,9 +20,8 @@ How to Run
 Rules of the Game
 1.	The board has 9 positions numbered 1-9:
 1	|	2	|	3
-----------
+
 4	|	5	|	6
-----------
 7	|	8	|	9
 2.	Players take turns entering a number (1-9) to place their symbol.
 3.	The first player to get three of their symbols in a row, column, or diagonal wins.
